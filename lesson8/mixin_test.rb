@@ -16,3 +16,4 @@ end
 c = C.new
 p c.meth
 C.include?(M)
+
